@@ -1,5 +1,5 @@
-Сайт доступен по ссылке: https://msun-123.github.io/web/
+Link: https://msun-123.github.io/web/
 
-Сам сайт представляет из себя небольшую страничку, больше походящую на небольшое портфолио: игровые проекты, прототипы, арты. 
+My old portfolio in web format but now i use it for some testing
 
-Приятного просмотра! 
+:O
